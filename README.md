@@ -12,3 +12,7 @@
 7. [모스부호(1) 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/3871eb4120460901e41749b8ec5b2bcba05ebd7d#r98988299) <br>
 8. [중복된 문자 제거 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/20532663fd2894d0e76d91e2cc96e706d79a22dc#r98988837) <br>
 9. [k의 개수 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/d4f81fc4fe318241e79c5ef7fe06b9b615b7e2c2#r99341747)
+
+## 백준
+
+1. [주사위 세개 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/6b902e4feca24abed0d3e11390af023651d71cfc#r99343416)
