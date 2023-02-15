@@ -17,4 +17,5 @@
 ## 백준
 
 1. [주사위 세개 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/6b902e4feca24abed0d3e11390af023651d71cfc#r99343416) <br>
-2. [더하기 사이클 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/48b9cd26d6fbe4eae4ca162b3eb319ee3ca56073#commitcomment-99924849)
+2. [더하기 사이클 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/48b9cd26d6fbe4eae4ca162b3eb319ee3ca56073#commitcomment-99924849) <br>
+3. [단어 공부 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/32ec27145c96f7c07160d88531eb60cfee1cfb96#commitcomment-100653367)
