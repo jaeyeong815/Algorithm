@@ -14,6 +14,9 @@
 9. [k의 개수 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/d4f81fc4fe318241e79c5ef7fe06b9b615b7e2c2#r99341747) <br>
 10. [문자열 밀기 다른 사람 풀이 참고](https://github.com/jaeyeong815/Algorithm/commit/64ea212082a45006ca1b331560befd061129c7fe#commitcomment-100647511)
 
+### 풀이 참고한 문제
+1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257)
+
 ## 백준
 
 1. [주사위 세개 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/6b902e4feca24abed0d3e11390af023651d71cfc#r99343416) <br>
