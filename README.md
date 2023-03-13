@@ -13,7 +13,8 @@
 8. [중복된 문자 제거 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/20532663fd2894d0e76d91e2cc96e706d79a22dc#r98988837) <br>
 9. [k의 개수 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/d4f81fc4fe318241e79c5ef7fe06b9b615b7e2c2#r99341747) <br>
 10. [문자열 밀기 다른 사람 풀이 참고](https://github.com/jaeyeong815/Algorithm/commit/64ea212082a45006ca1b331560befd061129c7fe#commitcomment-100647511) <br>
-11. [시저 암호 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/d7ae4c71718d4f4c59a35a6f67cb5ace84e7296c#commitcomment-103558543)
+11. [시저 암호 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/d7ae4c71718d4f4c59a35a6f67cb5ace84e7296c#commitcomment-103558543) <br>
+12. [문자열 내 마음대로 정렬하기 sort 메서드 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/c402aced6660a626c05689482e226a67eab078be#commitcomment-104159949)
 
 ### 풀이 참고한 문제
 1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257)
