@@ -17,7 +17,8 @@
 12. [문자열 내 마음대로 정렬하기 sort 메서드 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/c402aced6660a626c05689482e226a67eab078be#commitcomment-104159949)
 
 ### 풀이 참고한 문제
-1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257)
+1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257) <br>
+2. [최소직사각형](https://github.com/jaeyeong815/Algorithm/commit/765433689d4f131fe95c3c8ce2055136b791c279#commitcomment-104637135)
 
 ## 백준
 
