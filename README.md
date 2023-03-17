@@ -18,7 +18,8 @@
 
 ### 풀이 참고한 문제
 1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257) <br>
-2. [최소직사각형](https://github.com/jaeyeong815/Algorithm/commit/765433689d4f131fe95c3c8ce2055136b791c279#commitcomment-104637135)
+2. [최소직사각형](https://github.com/jaeyeong815/Algorithm/commit/765433689d4f131fe95c3c8ce2055136b791c279#commitcomment-104637135)<br>
+3. [[1차] 다트 게임 - 정규식 참고](https://github.com/jaeyeong815/Algorithm/commit/49767d16372022cfd8e5368ee714f2f6f774cef1#commitcomment-104806991)
 
 ## 백준
 
