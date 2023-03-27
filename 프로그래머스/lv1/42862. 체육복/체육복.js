@@ -1,6 +1,6 @@
 function solution(n, lost, reserve) {
     let o = n - lost.length;
-    reserve.sort().forEach((el, idx) => {
+    reserve.forEach((el, idx) => {
         if (lost.includes(el)) {
             lost = lost.filter(n => n !== el);
             reserve = reserve.filter(n => n !== el);
