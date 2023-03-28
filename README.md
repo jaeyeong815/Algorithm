@@ -21,6 +21,10 @@
 2. [최소직사각형](https://github.com/jaeyeong815/Algorithm/commit/765433689d4f131fe95c3c8ce2055136b791c279#commitcomment-104637135)<br>
 3. [[1차] 다트 게임 - 정규식 참고](https://github.com/jaeyeong815/Algorithm/commit/49767d16372022cfd8e5368ee714f2f6f774cef1#commitcomment-104806991)
 
+### 참고할만한 다른 사람의 풀이
+1. [체육복](https://github.com/jaeyeong815/Algorithm/commit/9c85c5068eda1b757a703f82abbe2b34525c6b36#commitcomment-106172987) <br>
+2. [올바른 괄호](https://github.com/jaeyeong815/Algorithm/commit/1d2d219274a57c977ee1e67bac94ee517529e8ea#commitcomment-106322447)
+
 ## 백준
 
 1. [주사위 세개 풀이 관련 memo](https://github.com/jaeyeong815/Algorithm/commit/6b902e4feca24abed0d3e11390af023651d71cfc#r99343416) <br>
