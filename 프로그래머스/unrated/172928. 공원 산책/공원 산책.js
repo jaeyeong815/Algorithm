@@ -6,19 +6,23 @@ function solution(park, routes) {
     
     for(const route of routes) {
         const [op, n] = route.split(' ');
-        
+
         if (op === 'E' || op === 'W') {
+            let distance = mapCoordinate.x + (direction[op]*n);
+            if (distance > map.x || distance < 0) continue;
             for (let i = 1; i <= +n; i++) {
-                const distance = mapCoordinate.x + (direction[op]*i);
-                if (distance > map.x || distance < 0 || park[mapCoordinate.y][distance] === 'X') break;
+                distance = mapCoordinate.x + (direction[op]*i);
+                if (park[mapCoordinate.y][distance] === 'X') break;
                 if (i === +n) mapCoordinate.x = distance;
             }
         }
         
         if (op === 'N' || op === 'S') {
+            let distance = mapCoordinate.y + (direction[op]*n);
+            if (distance > map.y || distance < 0) continue;
             for (let i = 1; i <= +n; i++) {
-                const distance = mapCoordinate.y + (direction[op]*i);
-                if (distance > map.y || distance < 0 || park[distance][mapCoordinate.x] === 'X') break;
+                distance = mapCoordinate.y + (direction[op]*i);
+                if (park[distance][mapCoordinate.x] === 'X') break;
                 if (i === +n) mapCoordinate.y = distance;
             }
         }
