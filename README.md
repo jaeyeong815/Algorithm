@@ -20,7 +20,8 @@
 1. [등수 매기기](https://github.com/jaeyeong815/Algorithm/commit/9c9119a8ed9df96c238b773ab73a2094af5df257) <br>
 2. [최소직사각형](https://github.com/jaeyeong815/Algorithm/commit/765433689d4f131fe95c3c8ce2055136b791c279#commitcomment-104637135) <br>
 3. [[1차] 다트 게임 - 정규식 참고](https://github.com/jaeyeong815/Algorithm/commit/49767d16372022cfd8e5368ee714f2f6f774cef1#commitcomment-104806991) <br>
-4. [위장](https://github.com/jaeyeong815/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42578.%E2%80%85%EC%9C%84%EC%9E%A5/%EC%9C%84%EC%9E%A5.js) - [조합 풀이 설명](https://school.programmers.co.kr/questions/31757)
+4. [위장](https://github.com/jaeyeong815/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42578.%E2%80%85%EC%9C%84%EC%9E%A5/%EC%9C%84%EC%9E%A5.js) - [조합 풀이 설명](https://school.programmers.co.kr/questions/31757) <br>
+5. [프린터](https://github.com/jaeyeong815/Algorithm/commit/f53f028e18cbbf32bdb5924c478b516fb17a11d8#commitcomment-108538737)
 
 ### 참고할만한 다른 사람의 풀이
 1. [체육복](https://github.com/jaeyeong815/Algorithm/commit/9c85c5068eda1b757a703f82abbe2b34525c6b36#commitcomment-106172987) <br>
