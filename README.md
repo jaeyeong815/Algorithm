@@ -25,7 +25,8 @@
 6. [멀리 뛰기 - 피보나치 수열 참고](https://github.com/jaeyeong815/Algorithm/commit/f17ef389c457646572222568e46e713ec3ee3e0d#commitcomment-108541582) <br>
 7. [피로도](https://github.com/jaeyeong815/Algorithm/commit/b2d4154444236c001240319c45edcffff8cc0b16#commitcomment-110281379) <br>
 8. [가장 큰 수](https://github.com/jaeyeong815/Algorithm/commit/1c5172c10e26e828105c8c0339c2cdbcc76b6d7d#commitcomment-111253622) <br>
-9. [뒤에 있는 큰 수 찾기](https://github.com/jaeyeong815/Algorithm/commit/55512f96b4a975e1731e78581b2ce6003b0ff0f9#commitcomment-111747450)
+9. [뒤에 있는 큰 수 찾기](https://github.com/jaeyeong815/Algorithm/commit/55512f96b4a975e1731e78581b2ce6003b0ff0f9#commitcomment-111747450) <br>
+10. [큰 수 만들기](https://github.com/jaeyeong815/Algorithm/commit/617358a9f46cc5d7e21a0564dd63facd086c25db#commitcomment-112651770)
 
 ### 참고할만한 다른 사람의 풀이
 1. [체육복](https://github.com/jaeyeong815/Algorithm/commit/9c85c5068eda1b757a703f82abbe2b34525c6b36#commitcomment-106172987) <br>
