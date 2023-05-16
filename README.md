@@ -31,7 +31,8 @@
 ### 참고할만한 다른 사람의 풀이
 1. [체육복](https://github.com/jaeyeong815/Algorithm/commit/9c85c5068eda1b757a703f82abbe2b34525c6b36#commitcomment-106172987) <br>
 2. [올바른 괄호](https://github.com/jaeyeong815/Algorithm/commit/1d2d219274a57c977ee1e67bac94ee517529e8ea#commitcomment-106322447) <br>
-3. [최솟값 만들기 - reduce](https://github.com/jaeyeong815/Algorithm/commit/1b9bcf50ffb3037397157077be49b446e161345b#r106686252)
+3. [최솟값 만들기 - reduce](https://github.com/jaeyeong815/Algorithm/commit/1b9bcf50ffb3037397157077be49b446e161345b#r106686252) <br>
+4. [문자열 나누기](https://github.com/jaeyeong815/Algorithm/commit/dfd48bd1995972ba43d32c7beffbdc7faf21d1b2#commitcomment-113529546)
 
 ## 백준
 
